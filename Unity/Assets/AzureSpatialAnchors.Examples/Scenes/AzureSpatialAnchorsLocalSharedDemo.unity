@@ -660,9 +660,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   authenticationMode: 0
-  spatialAnchorsAccountId: 
-  spatialAnchorsAccountKey: 
-  spatialAnchorsAccountDomain: 
+  spatialAnchorsAccountId: f8f02436-715c-435d-b70f-522e230c0871
+  spatialAnchorsAccountKey: rZeU8WDbvOmmrcd7YuXLXeqVut75ktGpd/oWl1CLbjk=
+  spatialAnchorsAccountDomain: koreacentral.mixedreality.azure.com
   clientId: 
   tenantId: 
   logLevel: 2
@@ -692,10 +692,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b05d7d02a6af8dd48aefdd862a1556e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchoredObjectPrefab: {fileID: 1147623660883556, guid: e593bfccf03b6444da88c7591f906ba8,
+  anchoredObjectPrefab: {fileID: 6210580207988923596, guid: a3cbad97951e3d449ab8632d14139002,
     type: 3}
   cloudManager: {fileID: 294771742}
-  baseSharingUrl: 
+  baseSharingUrl: https://tekvillespatialanchors.azurewebsites.net/api/anchors
 --- !u!1 &339971469
 GameObject:
   m_ObjectHideFlags: 0

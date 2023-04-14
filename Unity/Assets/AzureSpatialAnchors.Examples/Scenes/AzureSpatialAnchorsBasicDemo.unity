@@ -522,9 +522,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   authenticationMode: 0
-  spatialAnchorsAccountId: 
-  spatialAnchorsAccountKey: 
-  spatialAnchorsAccountDomain: 
+  spatialAnchorsAccountId: f8f02436-715c-435d-b70f-522e230c0871
+  spatialAnchorsAccountKey: rZeU8WDbvOmmrcd7YuXLXeqVut75ktGpd/oWl1CLbjk=
+  spatialAnchorsAccountDomain: koreacentral.mixedreality.azure.com
   clientId: 
   tenantId: 
   logLevel: 2
